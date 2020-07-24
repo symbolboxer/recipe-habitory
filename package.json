@@ -1,14 +1,13 @@
 {
-  "id": "todoist",
-  "name": "Todoist",
-  "version": "1.1.0",
-  "description": "todoist plugin for Franz 5",
+  "id": "habitory",
+  "name": "Habitory",
+  "version": "1.0.0",
+  "description": "Habitory plugin for Franz 5",
   "main": "index.js",
-  "author": "Alex Ward <alex@alexward.me.uk>, Mike Burke <mburke@dmwtechnology.com>",
+  "author": "Chris Fincher <chris@chrisfincher.com>",
   "license": "MIT",
-  "repository": "https://github.com/meetfranz/recipe-todoist",
+  "repository": "https://github.com/symbolboxer/recipe-habitory",
   "config": {
-    "serviceURL": "https://todoist.com/app",
-    "hasIndirectMessages": true
+    "serviceURL": "https://app.habitory.com"
   }
 }
